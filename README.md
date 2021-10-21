@@ -1,24 +1,5 @@
-# actividad
+# Web para actividad
 
-## Project setup
-```
-yarn install
-```
+Esta web sirve para poder llevar el control de una actividad como pollada, truchada u otros.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Captura de la interfaz](Screenshot.png)
